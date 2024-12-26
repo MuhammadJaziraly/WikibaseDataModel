@@ -1,6 +1,6 @@
 # Wikibase DataModel
 
-[![Build Status](https://secure.travis-ci.org/wmde/WikibaseDataModel.png?branch=master)](http://travis-ci.org/wmde/WikibaseDataModel)
+[![Build Status](https://github.com/MuhammadJaziraly/WikibaseDataModel/actions/workflows/lint-and-test.yaml/badge.svg?branch=master)](https://github.com/MuhammadJaziraly/WikibaseDataModel/actions/workflows/lint-and-test.yaml)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/wmde/WikibaseDataModel/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/wmde/WikibaseDataModel/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/wmde/WikibaseDataModel/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/wmde/WikibaseDataModel/?branch=master)
 [![Download count](https://poser.pugx.org/wikibase/data-model/d/total.png)](https://packagist.org/packages/wikibase/data-model)
